@@ -1,4 +1,4 @@
-# Football - Field of Play Detection and Mapping
+# Football - Field of Play Detection and Player Mapping
 
 Soccer, also known as football, stands as the most popular sport worldwide, with millions of players spanning more than 200 countries and commanding the largest global television audience. This immense popularity, combined with the rapid technological advancements in recent years, has catalyzed the development of numerous computer vision applications aimed at automating the analysis of soccer matches. These applications hold value not only for the audience but also for referees, coaches, analysts, and players, offering insights that were once difficult to obtain manually.
 
