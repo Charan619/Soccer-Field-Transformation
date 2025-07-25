@@ -4,6 +4,8 @@ Soccer, also known as football, stands as the most popular sport worldwide, with
 
 This project explores the methodologies and challenges involved in achieving accurate football field mapping, focusing on the computational techniques that enable robust perspective-to-top-down transformations. By addressing these challenges, this work contributes to the broader effort of integrating advanced computer vision solutions into soccer, ultimately revolutionizing how the sport is analyzed, experienced, and understood.
 
+<img width="1228" height="708" alt="image" src="https://github.com/user-attachments/assets/468faa16-9022-42f2-b7d7-16d63e08089c" />
+
 ## Folder structure
     .
     ├── ...
@@ -21,3 +23,5 @@ The model weights along with segmented images, modified ground truth as a JSON f
 -   In the folder the weights for Homography_calculation_resnet is present in the folder out
 -   weight for Homography_calculation_yolo.ipynb is last.pt
 -   weight for Player_detection_YOLO.ipynb is best.pt
+
+<img width="586" height="710" alt="image" src="https://github.com/user-attachments/assets/11e32577-8628-4fb9-92f5-c37aefb7e0d5" />
